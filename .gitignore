@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+.idea/
+
+data/raw/
+data/processed/
+
+models/*.pt
+models/*.pth
+
+results/
+visualizations/
+
+*.log
